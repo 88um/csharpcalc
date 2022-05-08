@@ -1,2 +1,2 @@
 # csharpcalc
-simple calc in c#; adding gui soon
+simple calculator in c#; adding gui soon
